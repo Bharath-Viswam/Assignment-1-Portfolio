@@ -1,0 +1,37 @@
+
+body{
+  
+    height: 100%;
+    background-image: url("Images/photo-1480506132288-68f7705954bd.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.bg {
+    color: white;
+    /* The image used */
+
+  
+    /* Full height */
+  
+  height: 100%;
+    /* Center and scale the image nicely */
+ 
+  }
+.dy{
+    margin-left: -3px;
+}
+.form_1{
+    margin-left: 20px;
+}
+.txt-area{
+  height: 80px;
+}
+.footer_bt{
+  margin-left: 600px;
+text-align: center;
+}
+.nav_anch{
+  margin-left:690px ;
+}
